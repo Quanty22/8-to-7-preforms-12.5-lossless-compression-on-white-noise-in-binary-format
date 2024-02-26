@@ -1,1 +1,1 @@
-12.5-lossless-compression-on-white-noise-in-binary-code.
+12.5 lossless-compression-on-white noise in binary format
