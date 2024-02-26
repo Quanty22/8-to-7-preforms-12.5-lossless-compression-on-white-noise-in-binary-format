@@ -8,4 +8,4 @@ Our existing quantum-resistant encryption (you can already find the open-source 
 combined with our compressor forms a formidable combination. 
 Should you have questions or wish to engage in discussions or even collaborate about or on this, 
 feel free to contact us
-Or leave your comments on our discussion page..
+Or leave your comments on our discussion page.
