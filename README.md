@@ -1,1 +1,1 @@
-# White-noise-compresson
+12.5-lossless-compression-on-white-noise-in-binary-code.
